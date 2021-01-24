@@ -1,1 +1,1 @@
-# MiniGame
+# QuickHandGame
